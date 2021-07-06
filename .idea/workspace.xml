@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7359f6ff-637e-4000-9768-36726699ba7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/randika.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/randika.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/theme/app_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/theme/app_theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/top_level_providers.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/main_providers.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/ui/home/home_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/ui/home/home_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/ui/welcome_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/ui/welcome_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/ui_components/language_switch.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/ui_components/language_switch.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/languages/app_language_preferences.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/languages/app_language_preferences.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/navigation/navigation_routes_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_tests/navigation/navigation_routes_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/navigation/navigation_routes_test.mocks.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_tests/navigation/navigation_routes_test.mocks.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/unit_tests/localization/app_language_preferences_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/unit_tests/localization/app_language_preferences_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +45,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Flutter Log" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/widget_tests" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:fl_mvvm_riverpod/app/route_generator.dart';
-import 'package:fl_mvvm_riverpod/app/top_level_providers.dart';
+import 'package:fl_mvvm_riverpod/app/main_providers.dart';
 import 'package:fl_mvvm_riverpod/services/shared_preferences_service.dart';
 import 'package:fl_mvvm_riverpod/app/ui/home/home_view.dart';
 import 'package:fl_mvvm_riverpod/app/ui/welcome_view.dart';

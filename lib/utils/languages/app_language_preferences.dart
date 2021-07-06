@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:fl_mvvm_riverpod/app/top_level_providers.dart';
+import 'package:fl_mvvm_riverpod/app/main_providers.dart';
 
 class AppLanguagePreferences with ChangeNotifier {
   final Reader reader;

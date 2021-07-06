@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:fl_mvvm_riverpod/app/top_level_providers.dart';
+import 'package:fl_mvvm_riverpod/app/main_providers.dart';
 import 'package:fl_mvvm_riverpod/utils/languages/app_localizations.dart';
 
 class LanguagesSwitch extends ConsumerWidget {
