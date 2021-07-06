@@ -34,27 +34,27 @@ This app was made to demonstrate an approach of State management through impleme
 ```
 /fl_mvvm_riverpod
   /assets
-	 /fonts						----> Font files
-	 /languages					----> JSON files for each localized languages
+      /fonts					----> Font files
+      /languages				----> JSON files for each localized languages
   /lib
-	 /app
-		 /theme
-			/app_theme.dart		----> Implemented with ChangeNotifier Mixin
-		 /ui					----> All screen widget implementation goes here
-		 /ui_components			----> All the Common UI Widgets go here
-		 -main_providers.dart	----> Main Provider declarations go here
-		 -route_generator.dart	----> Routes table that is consumed by Flutter App
-	 /services
-	   -shared_preferences_service.dart	----> Shared Preference Key-Value pairs
-	 /utils
-		/languages
-		   -app_language_preferences.dart	--> Implemented with ChangeNotifier Mixin
-		   -app_localizations.dart			--> Implemented with ChangeNotifier Mixin and LocalizationsDelegate
-	    -console_logger.dart
-	 main.dart								--> main function where the App widget is wrapped in ProviderScope widget
+      /app
+          /theme
+             /app_theme.dart			----> Implemented with ChangeNotifier Mixin
+          /ui					----> All screen widget implementation goes here
+          /ui_components			----> All the Common UI Widgets go here
+          -main_providers.dart			----> Main Provider declarations go here
+          -route_generator.dart			----> Routes table that is consumed by Flutter App
+      /services
+	 -shared_preferences_service.dart	----> Shared Preference Key-Value pairs
+      /utils
+         /languages
+	       -app_language_preferences.dart	--> Implemented with ChangeNotifier Mixin
+	       -app_localizations.dart		--> Implemented with ChangeNotifier Mixin and LocalizationsDelegate
+         -console_logger.dart
+      -main.dart				--> main function where the App widget is wrapped in ProviderScope widget
   /test
-	 /unit_tests
-	 /widget_tests
+      /unit_tests
+      /widget_tests
 ```
 ##### Packages used for the above implementation:
 ```
